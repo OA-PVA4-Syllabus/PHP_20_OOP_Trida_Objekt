@@ -3,14 +3,14 @@
 
 ## Obsah
 
-### 1
+### 1 Student
 Chcete vytvořit informační systém pro evidenci studentů.
-Vytvořte třídu Student, definujte property `jméno`, `příjmení`, `třída`, `skupina`, `status` (boolean).
+Vytvořte třídu Student, definujte property `jméno`, `příjmení`, `třída`, `skupina`, `status` (boolean). True pro stav studenta, false pro uchazeče.
 
 Definujte dvě instance objektu třídy student. Pro první instanci použijte své údaje.
 
 
-### 2
+### 2 Autopůjčovna
 Vytvoř program pro evidenci aut malé autopůjčovny. Půjčovna má 2 automobily:
 
 | Registrační značka | Značka a typ vozidla | Počet najetých kilometrů  |

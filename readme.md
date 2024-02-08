@@ -11,7 +11,7 @@ Definujte dvě instance objektu třídy student. Pro první instanci použijte s
 
 
 ### 2 Autopůjčovna
-Vytvoř program pro evidenci aut malé autopůjčovny. Půjčovna má 2 automobily:
+Vytvoř program pro evidenci aut malé autopůjčovny. Půjčovna má níže automobily:
 
 | Registrační značka | Značka a typ vozidla | Počet najetých kilometrů  |
 | ------------- |-------------| -----:|

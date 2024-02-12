@@ -26,4 +26,4 @@ značka a typ vozidla,
 počet najetých kilometrů,
 informaci o tom, jestli je vozidlo aktuálně volné (pravdivostní hodnota -- True pokud je volné a False pokud je vypůjčené).
 
-Definuj objekty vozidel.
+Definuj objekty vozidel a vypiš všechny ve formě tabulky.
